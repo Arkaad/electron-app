@@ -1,0 +1,22 @@
+{
+  "name": "electron-app",
+  "version": "1.0.0",
+  "description": "Shopping list desktop app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arkaad/electron-app.git"
+  },
+  "author": "Arka Dutta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arkaad/electron-app/issues"
+  },
+  "homepage": "https://github.com/Arkaad/electron-app#readme",
+  "dependencies": {
+    "electron": "^3.0.10"
+  }
+}
